@@ -1,0 +1,44 @@
+[@] Root
+ ┗━ [0]
+     ┗━ Message:
+        ┣━ URLSEARCH:
+        ┃  ┣━ [0]
+        ┃  ┃  ┣━ host: "ipsaj.edu.ar"
+        ┃  ┃  ┣━ path: "personal/"
+        ┃  ┃  ┣━ user: "29801955"
+        ┃  ┃  ┗━ pass: "isaakisrael7"
+        ┃  ┣━ [1]
+        ┃  ┃  ┣━ host: "ipsaj.edu.ar"
+        ┃  ┃  ┣━ path: ""
+        ┃  ┃  ┣━ user: "29801955"
+        ┃  ┃  ┗━ pass: "isaakisrael7"
+        ┃  ┣━ [2]
+        ┃  ┃  ┣━ host: "www.ipsaj.edu.ar"
+        ┃  ┃  ┣━ path: ""
+        ┃  ┃  ┣━ user: "41503578"
+        ┃  ┃  ┗━ pass: "j0a1y2f3"
+        ┃  ┣━ [3]
+        ┃  ┃  ┣━ host: "ipsaj.edu.ar"
+        ┃  ┃  ┣━ path: "personal/"
+        ┃  ┃  ┣━ user: "18799844"
+        ┃  ┃  ┗━ pass: "isaakisrael6"
+        ┃  ┗━ [4]
+        ┃     ┣━ host: "ipsaj.edu.ar"
+        ┃     ┣━ path: "personal"
+        ┃     ┣━ user: "29801955"
+        ┃     ┗━ pass: "isaakisrael7"
+        ┗━ BIGDATABASE:
+           ┣━ [0]
+           ┃  ┗━ buffer: "ipsaj.edu.ar/personal:34971006:1104emic"
+           ┣━ [1]
+           ┃  ┗━ buffer: "https://ipsaj.edu.ar:29801955:isaakisrael7"
+           ┣━ [2]
+           ┃  ┗━ buffer: "https://ipsaj.edu.ar/personal:29801955:isaakisrael7"
+           ┣━ [3]
+           ┃  ┗━ buffer: "https://ipsaj.edu.ar/personal/:29801955:isaakisrael7"
+           ┣━ [4]
+           ┃  ┗━ buffer: "ipsaj.edu.ar/personal/:30959273:perelman1984"
+           ┣━ [5]
+           ┃  ┗━ buffer: "ipsaj.edu.ar/personal/index.php:63715790:j1a3y4f5"
+           ┗━ [6]
+              ┗━ buffer: "ipsaj.edu.ar:41503578:j0a1y2f3"
